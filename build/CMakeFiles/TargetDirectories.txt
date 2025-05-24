@@ -1,0 +1,3 @@
+C:/Users/user/Downloads/year20252/OpenGLProject/build/CMakeFiles/main.dir
+C:/Users/user/Downloads/year20252/OpenGLProject/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Downloads/year20252/OpenGLProject/build/CMakeFiles/rebuild_cache.dir
