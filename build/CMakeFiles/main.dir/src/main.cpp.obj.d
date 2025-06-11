@@ -67,6 +67,12 @@ CMakeFiles/main.dir/src/main.cpp.obj: \
  C:/mng/mingw64/include/c++/14.2.0/bits/uses_allocator.h \
  C:/mng/mingw64/include/c++/14.2.0/bits/uses_allocator_args.h \
  C:/mng/mingw64/include/c++/14.2.0/tuple \
+ C:/mng/mingw64/include/c++/14.2.0/algorithm \
+ C:/mng/mingw64/include/c++/14.2.0/bits/stl_algo.h \
+ C:/mng/mingw64/include/c++/14.2.0/bits/algorithmfwd.h \
+ C:/mng/mingw64/include/c++/14.2.0/bits/stl_heap.h \
+ C:/mng/mingw64/include/c++/14.2.0/bits/uniform_int_dist.h \
+ C:/mng/mingw64/include/c++/14.2.0/bits/stl_tempbuf.h \
  C:/mng/mingw64/include/c++/14.2.0/cstdlib \
  C:/mng/mingw64/x86_64-w64-mingw32/include/stdlib.h \
  C:/mng/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
@@ -79,6 +85,8 @@ CMakeFiles/main.dir/src/main.cpp.obj: \
  C:/mng/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
  C:/mng/mingw64/x86_64-w64-mingw32/include/errno.h \
  C:/mng/mingw64/include/c++/14.2.0/bits/std_abs.h \
+ C:/mng/mingw64/include/c++/14.2.0/pstl/glue_algorithm_defs.h \
+ C:/mng/mingw64/include/c++/14.2.0/pstl/execution_defs.h \
  C:/mng/mingw64/include/c++/14.2.0/ctime \
  C:/mng/mingw64/x86_64-w64-mingw32/include/time.h \
  C:/mng/mingw64/x86_64-w64-mingw32/include/sys/timeb.h \
@@ -154,4 +162,6 @@ CMakeFiles/main.dir/src/main.cpp.obj: \
  C:/mng/mingw64/include/c++/14.2.0/bits/basic_ios.tcc \
  C:/mng/mingw64/include/c++/14.2.0/bits/ostream.tcc \
  C:/mng/mingw64/include/c++/14.2.0/istream \
- C:/mng/mingw64/include/c++/14.2.0/bits/istream.tcc
+ C:/mng/mingw64/include/c++/14.2.0/bits/istream.tcc \
+ C:/mng/mingw64/include/c++/14.2.0/sstream \
+ C:/mng/mingw64/include/c++/14.2.0/bits/sstream.tcc
